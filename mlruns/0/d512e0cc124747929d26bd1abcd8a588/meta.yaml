@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/user/streamlit-crash-cours/mlruns/0/d512e0cc124747929d26bd1abcd8a588/artifacts
+end_time: 1759487262112
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d512e0cc124747929d26bd1abcd8a588
+run_name: loud-ox-609
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759487248590
+status: 3
+tags: []
+user_id: user

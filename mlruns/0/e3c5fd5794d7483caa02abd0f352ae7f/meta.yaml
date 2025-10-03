@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/user/streamlit-crash-cours/mlruns/0/e3c5fd5794d7483caa02abd0f352ae7f/artifacts
+end_time: 1759487867770
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e3c5fd5794d7483caa02abd0f352ae7f
+run_name: selective-jay-514
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759487863967
+status: 3
+tags: []
+user_id: user

@@ -1,0 +1,22 @@
+artifact_path: file:///C:/Users/user/streamlit-crash-cours/mlruns/0/models/m-48ea842c19994a9d9678e7e50d20f0ec/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.3
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.5.2
+mlflow_version: 3.4.0
+model_id: m-48ea842c19994a9d9678e7e50d20f0ec
+model_size_bytes: 114443
+model_uuid: m-48ea842c19994a9d9678e7e50d20f0ec
+prompts: null
+run_id: 05796d15a5114daeab24492e3121d868
+utc_time_created: '2025-10-03 10:38:01.486140'

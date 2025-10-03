@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/user/streamlit-crash-cours/mlruns/0/562e842c7ebd4ab6ab7f4dddf5de0f06/artifacts
+end_time: 1759487863956
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 562e842c7ebd4ab6ab7f4dddf5de0f06
+run_name: crawling-zebra-90
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759487859845
+status: 3
+tags: []
+user_id: user

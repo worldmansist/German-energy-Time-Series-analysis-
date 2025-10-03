@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/user/streamlit-crash-cours/mlruns/0/9bb1e00859554ff191f1d6bc1c147a99/artifacts
+end_time: 1759487611663
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9bb1e00859554ff191f1d6bc1c147a99
+run_name: receptive-fish-536
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759487602887
+status: 3
+tags: []
+user_id: user

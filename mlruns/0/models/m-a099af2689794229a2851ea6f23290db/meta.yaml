@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/user/streamlit-crash-cours/mlruns/0/models/m-a099af2689794229a2851ea6f23290db/artifacts
+creation_timestamp: 1759487860052
+experiment_id: '0'
+last_updated_timestamp: 1759487863948
+model_id: m-a099af2689794229a2851ea6f23290db
+model_type: null
+name: model
+source_run_id: 562e842c7ebd4ab6ab7f4dddf5de0f06
+status: 2
+status_message: null
